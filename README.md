@@ -11,10 +11,11 @@ Anyone can effectively self-mine iGniter, even if they missed out on the bounty 
 
 There are several ways to self-mine iGniter.
 
-    By calling the claimDividends function
+    By calling the dividendRegistration function
+    By being an initial address owner
     By calling the HODLRegistration function and owning 100k or more INR
-    By calling any of the five Tier functions and sending the specified amount of Ethereum
+    By calling any of the five Tier functions and sending the specified amount of Ethereum to the smart contract
 
-You can query the smart contract on EtherScan. https://etherscan.io/address/0xa70f4FECBe032135ad970dcEeb9e5076a5BE8B1D
+You can query the smart contract on EtherScan. https://etherscan.io/address/0x9E2419c8fc0A7C2f2B22CC8dE9AC484aD00d1F57
 
-Contract Address: 0xa70f4FECBe032135ad970dcEeb9e5076a5BE8B1D
+Contract Address: 0x9E2419c8fc0A7C2f2B22CC8dE9AC484aD00d1F57
